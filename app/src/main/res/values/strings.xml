@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Text when you arrive</string>
+    <string name="message">SMS message:</string>
+    <string name="message_hint">Write your loved one a reassuring message</string>
+    <string name="number">Number</string>
+    <string name="number_hint">Dial up</string>
+    <string name="submit_string">Submit</string>
+    <string name="reset_all_string">Reset All Alarms</string>
+    <string name="reset_string">Reset</string>
+    <string name="number_button">Select a contact</string>
+    <string name="time_button">Choose Time</string>
+    <string name="place_button">Select Place</string>
+    <string name="distance_hint">Enter distance [km]</string>
+    <string name="days">Days:</string>
+    <string name="monday">M</string>
+    <string name="tuesday">T</string>
+    <string name="wednesday">W</string>
+    <string name="thursday">T</string>
+    <string name="friday">F</string>
+    <string name="saturday">S</string>
+    <string name="sunday">S</string>
+    <string name="alarms">Alarms:</string>
+
+
+</resources>
